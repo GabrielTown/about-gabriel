@@ -1,6 +1,10 @@
+body{
+	background-color: ghostwhite;
+}
+
 h1 {
 	text-align: center;
-	color: blue;
+	color: orangered;
 }
 p {
 	text-align: center;
