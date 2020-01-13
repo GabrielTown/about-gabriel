@@ -1,0 +1,15 @@
+h1 {
+	text-align: center;
+	color: blue;
+}
+p {
+	text-align: center;
+}
+img {
+	width: 300px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 65px;
+	transform: rotate(270deg);
+}
